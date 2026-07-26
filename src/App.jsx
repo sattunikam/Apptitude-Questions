@@ -24,7 +24,7 @@ const delay = 2000
     <>
       <section id="center">
        <h1>Throttle</h1>
-      <h1>Load Google Map API</h1>
+      <h1>Load Google Map API and shown her city</h1>
       </section>
     </>
   )
