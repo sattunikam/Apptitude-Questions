@@ -24,7 +24,7 @@ const delay = 2000
     <>
       <section id="center">
        <h1>Throttle</h1>
-       <button onClick={googleMap}>Load Google Map</button>
+       <button onClick={googleMap}>Track Google Map</button>
       </section>
     </>
   )
