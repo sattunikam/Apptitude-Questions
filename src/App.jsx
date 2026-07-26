@@ -24,7 +24,7 @@ const delay = 2000
     <>
       <section id="center">
        <h1>Throttle</h1>
-      <P>My communication is my power</P>
+      <h1>Load Google Map</h1>
       </section>
     </>
   )
