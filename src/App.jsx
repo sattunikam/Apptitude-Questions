@@ -23,7 +23,7 @@ const delay = 2000
   return (
     <>
       <section id="center">
-       <h1>Throttle</h1>
+       <h1>Throttle Implementation</h1>
       <h1>Load Google Map</h1>
       </section>
     </>
