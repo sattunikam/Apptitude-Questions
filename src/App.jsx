@@ -5,6 +5,7 @@ import heroImg from './assets/hero.png'
 import './App.css'
 import Footer from './Components/Footer'
 import { useRef } from "react";
+import Login from './Components/Login'
 
 function App() {
 const lastcall = useRef(0)
@@ -25,6 +26,9 @@ const delay = 2000
       <section id="center">
        <h1>Throttle Thoery Implementation and It's Code</h1>
       <h1>Load Google Map</h1>
+       <h1>Throttle</h1>
+       <button onClick={googleMap}>Load Google Map</button>
+       <Login/>
       </section>
     </>
   )
